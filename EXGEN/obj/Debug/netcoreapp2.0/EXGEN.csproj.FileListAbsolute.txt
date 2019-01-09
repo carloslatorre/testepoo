@@ -1,0 +1,11 @@
+/Users/carloslatorre/Projects/EXGEN/EXGEN/bin/Debug/netcoreapp2.0/EXGEN.deps.json
+/Users/carloslatorre/Projects/EXGEN/EXGEN/bin/Debug/netcoreapp2.0/EXGEN.runtimeconfig.json
+/Users/carloslatorre/Projects/EXGEN/EXGEN/bin/Debug/netcoreapp2.0/EXGEN.runtimeconfig.dev.json
+/Users/carloslatorre/Projects/EXGEN/EXGEN/bin/Debug/netcoreapp2.0/EXGEN.dll
+/Users/carloslatorre/Projects/EXGEN/EXGEN/bin/Debug/netcoreapp2.0/EXGEN.pdb
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.csprojResolveAssemblyReference.cache
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.csproj.CoreCompileInputs.cache
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.AssemblyInfoInputs.cache
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.AssemblyInfo.cs
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.dll
+/Users/carloslatorre/Projects/EXGEN/EXGEN/obj/Debug/netcoreapp2.0/EXGEN.pdb

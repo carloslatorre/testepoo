@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AA7B7CCD-0C44-44D7-8CEC-6D36D7E7D5A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.EXGEN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EXGEN/Program.cs">
+    <Files>
+      <File FileName="EXGEN/Program.cs" Line="66" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
